@@ -65,7 +65,6 @@ Facilitates automated and interactive communication. The goal was to simulate hu
 ## ✅ Technologies Used
 
 - **Java (JDK 17+)**
-- **HTML5, CSS3, JavaScript**
 - **Object-Oriented Programming (OOP)**
 - **NLP Concepts for Chatbot**
 - **IDE:** IntelliJ IDEA / Eclipse / VS Code
@@ -78,12 +77,10 @@ To run any of the Java or web projects:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/codealpha_javaprogramming.git
+   git clone https://github.com/ahmadjawad533/codealpha_javaprogramming.git
 Navigate to the desired task folder:
 
 Open Java files in your Java IDE
-
-Open HTML/CSS/JS files in your browser or a code editor like VS Code
 
 Compile/Run/View the projects as per the instructions in each task folder.
 
@@ -92,11 +89,13 @@ For feedback, queries, or collaboration opportunities, feel free to connect:
 
 Name: Ahmad Jawad
 
-Email: ahmadjawad533@gmail.com
+Email: iahmadjawad533@gmail.com
 
 LinkedIn: linkedin.com/in/ahmadjawad533
 
 Facebook: facebook.com/ahmadjawad533
+
+Portfolio: https://iahmadjawad533.wixsite.com/my-site
 
 🌟 Show Your Support
 If you found this project helpful:
