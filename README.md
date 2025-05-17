@@ -91,9 +91,9 @@ Name: Ahmad Jawad
 
 Email: iahmadjawad533@gmail.com
 
-LinkedIn: linkedin.com/in/ahmadjawad533
+LinkedIn: (https://www.linkedin.com/in/ahmadjawad533/)
 
-Facebook: facebook.com/ahmadjawad533
+Facebook: (https://www.facebook.com/ahmadjawad533/)
 
 Portfolio: https://iahmadjawad533.wixsite.com/my-site
 
