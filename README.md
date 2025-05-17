@@ -109,6 +109,3 @@ If you found this project helpful:
 
 Thank you for visiting! 
 
----
-
-Would you like me to generate badges, add images/screenshots, or create a version in Urdu for local audiences as well?
