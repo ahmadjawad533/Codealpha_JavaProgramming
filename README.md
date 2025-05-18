@@ -24,35 +24,23 @@ It uses arrays or `ArrayList` for efficient data storage and manipulation. This 
 
 ---
 
-### 📌 Task 2: Web – Personal Portfolio Website & Stock Trading Platform
+### 📌 Task 2:  Stock Trading Platform
 
-**Project 1:** Personal Portfolio Website  
-**Description:**  
-A responsive personal portfolio built using:
-- **HTML** (structure)
-- **CSS** (styling)
-- **JavaScript** (interactivity)
-
-Includes sections like About, Projects, Skills, Resume, and Contact.
-
-**Project 2:** Stock Trading Platform (Simulation)  
+**Project:** Stock Trading Platform (Simulation)  
 **Description:**  
 A simulated stock trading platform featuring:
 - Market data representation
 - Buy/Sell functionality
 - Portfolio performance tracking
 
-Focuses on frontend development and design concepts.
+Focuses on design concepts.
 
 ---
 
-### 📌 Task 3: Web & AI – Portfolio Enhancement & AI Chatbot
+### 📌 Task 3: AI Chatbot
 
-**Project 1:** Enhanced Personal Portfolio Website  
-**Description:**  
-Refinements and added features to the personal portfolio website, enhancing UX and UI using animations and interactivity.
 
-**Project 2:** AI Chatbot  
+**Project :** AI Chatbot  
 **Description:**  
 An intelligent chatbot using:
 - Natural Language Processing (NLP)
@@ -66,8 +54,7 @@ Facilitates automated and interactive communication. The goal was to simulate hu
 
 - **Java (JDK 17+)**
 - **Object-Oriented Programming (OOP)**
-- **NLP Concepts for Chatbot**
-- **IDE:** IntelliJ IDEA / Eclipse / VS Code
+- **IDE:** IntelliJ IDEA / VS Code
 
 ---
 
