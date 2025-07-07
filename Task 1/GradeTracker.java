@@ -10,7 +10,6 @@ public class GradeTracker {
         System.out.print("Enter the number of students: ");
         int numberOfStudents = scanner.nextInt();
 
-        // Input grades
         for (int i = 0; i < numberOfStudents; i++) {
             System.out.print("Enter grade for student " + (i + 1) + ": ");
             int grade = scanner.nextInt();
@@ -21,18 +20,15 @@ public class GradeTracker {
             grades.add(grade);
         }
 
-        // Calculate average
         double sum = 0;
         for (int grade : grades) {
             sum += grade;
         }
         double average = sum / grades.size();
 
-        // Find highest and lowest
         int highest = Collections.max(grades);
         int lowest = Collections.min(grades);
 
-        // Display results
         System.out.println("\n--- Grade Summary ---");
         System.out.println("Grades: " + grades);
         System.out.printf("Average Grade: %.2f\n", average);
