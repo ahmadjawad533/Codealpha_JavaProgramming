@@ -4,13 +4,11 @@ public class StockTradingPlatform {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
-        // Simulated market data
         HashMap<String, Stock> market = new HashMap<>();
         market.put("AAPL", new Stock("AAPL", "Apple Inc.", 150.0));
         market.put("GOOGL", new Stock("GOOGL", "Alphabet Inc.", 2800.0));
         market.put("TSLA", new Stock("TSLA", "Tesla Inc.", 700.0));
 
-        // Create user portfolio
         Portfolio portfolio = new Portfolio(10000.0);
 
         int choice;
